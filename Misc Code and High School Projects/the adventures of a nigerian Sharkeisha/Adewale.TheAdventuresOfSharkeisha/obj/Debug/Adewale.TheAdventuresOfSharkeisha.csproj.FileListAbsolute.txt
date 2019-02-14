@@ -1,0 +1,132 @@
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Form4.resources
+c:\users\adewle y\documents\visual studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Form4.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+C:\Users\S421781\Documents\Visual Studio 2012\Projects\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmSlots.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMovingBlocks.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPingPong.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmBonus.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMovingBlocks.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmSlots.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPingPong.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmBonus.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPassword.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPassword.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.AboutBox1.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.AboutBox1.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmStart.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmStart.resources
+E:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmScoreBoard.resources
+F:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmScoreBoard.resources
+D:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+D:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+D:\Programming\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.AboutBox1.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMovingBlocks.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmScoreBoard.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmSlots.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPingPong.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmBonus.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPassword.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmStart.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+C:\Users\Akin\Desktop\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.AboutBox1.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMovingBlocks.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmScoreBoard.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmSlots.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPingPong.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmBonus.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPassword.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmStart.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+H:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache
+E:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+E:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+E:\Adewale.TheAdventuresOfSharkeisha\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe.config
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.exe
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\bin\Debug\Adewale.TheAdventuresOfSharkeisha.pdb
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csprojResolveAssemblyReference.cache
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.AboutBox1.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmCPT.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmParty.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMaze.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmMovingBlocks.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmDrinks.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmScoreBoard.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmSlots.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPingPong.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmBonus.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmPassword.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.frmStart.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.Properties.Resources.resources
+E:\the adventures of a nigerian worker\Adewale.TheAdventuresOfSharkeisha\obj\Debug\Adewale.TheAdventuresOfSharkeisha.csproj.GenerateResource.Cache

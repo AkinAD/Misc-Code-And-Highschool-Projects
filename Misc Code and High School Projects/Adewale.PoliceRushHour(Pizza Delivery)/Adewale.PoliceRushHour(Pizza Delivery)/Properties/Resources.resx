@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="frame_75_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_75_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_110_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_110_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_105_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_105_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plus 2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plus 2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="keytap" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Typing_On_Computer_Keyboard-Cut.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_6_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_6_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_37_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_37_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_3_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_3_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_126_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_126_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_132_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_132_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_40_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_40_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_26_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_26_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_6_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_6_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Clock Font" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\digital-7.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_18_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_18_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_3_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_3_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="screen_clipart_monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\screen_clipart_monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_118_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_118_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_73_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_73_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BCarV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BCarV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_46_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_46_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_121_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_121_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_10_delay-0.04s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_10_delay-0.04s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_11_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_11_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_13_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_13_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_145delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_145delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_70_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_70_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_27_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_27_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_129_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_129_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_7_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_7_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_4_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_4_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_68_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_68_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_55_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_55_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_125_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_125_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_146_delay-0.09s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_146_delay-0.09s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_78_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_78_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_115_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_115_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_47_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_47_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_117_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_117_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GCarV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GCarV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_63_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_63_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_134_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_134_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_106_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_106_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_147" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_147.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carbeep" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carbeep.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_65_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_65_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="GCarH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\GCarH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Plus 1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Plus 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_13_delay-0.05s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_13_delay-0.05s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_15_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_15_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_103_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_103_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_17_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_17_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_139_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_139_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_0_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_0_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_6_delay-0.07s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_6_delay-0.07s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backspace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\typewriter_key.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_25_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_25_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_29_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_29_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_53_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_53_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_7_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_7_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CarH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_28_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_28_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_123_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_123_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_72_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_72_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_98_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_98_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_120_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_120_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_144_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_144_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_146" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_146.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BCarH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BCarH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_100_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_100_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_5_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_5_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_10_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_10_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_111_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_111_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_80_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_80_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_58_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_58_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_23_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_23_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tada" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tada.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_130_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_130_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CarV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_108_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_108_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_84_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_84_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_86_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_86_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_148" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_148.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_79_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_79_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_30_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_30_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="phone" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\phone.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="PCarH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PCarH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_67_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_67_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_90_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_90_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_4_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_4_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plus-sign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plus-sign.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_112_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_112_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_101_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_101_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ka_ching_Sound_Effect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ka_ching_Sound_Effect.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_20_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_20_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_61_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_61_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_6_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_6_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_95_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_95_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_97_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_97_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_116_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_116_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_104_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_104_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_45_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_45_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_5_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_5_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bake button" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bake button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_145_delay-0.06s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_145_delay-0.06s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_64_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_64_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_38_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_38_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_0_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_0_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Level UP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Level UP2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_76_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_76_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_142_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_142_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_74_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_74_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_122_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_122_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_131_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_131_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_41_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_41_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_43_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_43_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarV2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CarV2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_128_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_128_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_81_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_81_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_83_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_83_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_92_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_92_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_19_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_19_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_36_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_36_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_135_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_135_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_34_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_34_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_149" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_149.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CarH2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CarH2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_127_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_127_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_4_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_4_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_8_delay-0.06s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_8_delay-0.06s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_93_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_93_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_5_delay-0.07s1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_5_delay-0.07s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sideview pizza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sideview pizza.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_1_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_1_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_54_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_54_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_85_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_85_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_22_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_22_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_50_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_50_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_102_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_102_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_you_want_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Do you want 1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_39_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_39_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_59_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_59_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_2_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_2_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_11_delay-0.5s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_11_delay-0.5s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_31_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_31_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Level UP3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Level UP3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_66_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_66_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pizza-clipart-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pizza-clipart-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_14_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_14_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame12.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_12_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_12_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ding" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ding.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_48_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_48_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_133_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_133_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_88_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_88_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_96_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_96_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Do_you_want_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Do you want 2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_2_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_2_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_0_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_0_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PizzzaOven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PizzzaOven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Level UP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Level UP1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_56_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_56_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_62_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_62_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Pizza" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pizza.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_14_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_14_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_8_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_8_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_137_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_137_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_87_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_87_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_114_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_114_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_107_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_107_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_119_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_119_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_99_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_99_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_89_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_89_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_52_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_52_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_35_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_35_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_138_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_138_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_113_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_113_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ClosedPizzaOven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ClosedPizzaOven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_16_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_16_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_136_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_136_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_24_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_24_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_69_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_69_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_42_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_42_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_1_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_1_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_1_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_1_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_3_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_3_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_82_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_82_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_71_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_71_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame8.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_141_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_141_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_143_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_143_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_150" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_150.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_33_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_33_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_44_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_44_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Command_Prompt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\windows_command_prompt.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="frame_124_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_124_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_57_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_57_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_60_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_60_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_49_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_49_delay-0.03s2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_2_delay-0.07s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_2_delay-0.07s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_140_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_140_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_51_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_51_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Monitor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Monitor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_94_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_94_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_91_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_91_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_32_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_32_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_77_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_77_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_21_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_21_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_12_delay-0.05s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_12_delay-0.05s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_9_delay-0.05s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_9_delay-0.05s.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame7.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_109_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_109_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Frame11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Frame11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_5_delay_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_5_delay-0.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="frame_9_delay-0.03s" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\frame_9_delay-0.03s1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PCarV" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PCarV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="speedify-speed-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\speedify-speed-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Batman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Batman.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BeautySchoolDropout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BeautySchoolDropout.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BeautySchoolDropoutII" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BeautySchoolDropoutII.ttf;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="First_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\160421__bigkahuna360__electrical-shock-zap.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Second_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\72700__robinhood76__01049-neon-blink-2.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Third_Neon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Third_Neon.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

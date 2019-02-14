@@ -1,0 +1,42 @@
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe.config
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.pdb
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csprojResolveAssemblyReference.cache
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmMemory.resources
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.Properties.Resources.resources
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csproj.GenerateResource.Cache
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.exe
+C:\Users\s421781\Documents\Visual Studio 2012\Projects\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.pdb
+H:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe.config
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.exe
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.pdb
+H:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe
+H:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.pdb
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csprojResolveAssemblyReference.cache
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmMemory.resources
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.Properties.Resources.resources
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csproj.GenerateResource.Cache
+E:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe.config
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.exe
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.pdb
+E:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe
+E:\Adewale.Memory Game\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.pdb
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csprojResolveAssemblyReference.cache
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmMemory.resources
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.Properties.Resources.resources
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csproj.GenerateResource.Cache
+H:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmScoreboard.resources
+E:\Adewale.Memory Game\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmScoreboard.resources
+E:\the memory of a nigerian worker\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe.config
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.exe
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.pdb
+E:\the memory of a nigerian worker\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe
+E:\the memory of a nigerian worker\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.pdb
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csprojResolveAssemblyReference.cache
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmMemory.resources
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.frmScoreboard.resources
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory_Game.Properties.Resources.resources
+E:\the memory of a nigerian worker\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.csproj.GenerateResource.Cache
+E:\Adewale.MemoryGame\Adewale.Memory Game\bin\Debug\Adewale.Memory Game.exe.config
+E:\Adewale.MemoryGame\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.exe
+E:\Adewale.MemoryGame\Adewale.Memory Game\obj\Debug\Adewale.Memory Game.pdb

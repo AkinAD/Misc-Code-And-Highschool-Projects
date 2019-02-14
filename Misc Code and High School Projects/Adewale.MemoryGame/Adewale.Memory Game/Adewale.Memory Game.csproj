@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9F822FC0-E791-4E4E-BD6A-30C26410B553}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Adewale.Memory_Game</RootNamespace>
+    <AssemblyName>Adewale.Memory Game</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmScoreboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmScoreboard.Designer.cs">
+      <DependentUpon>frmScoreboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmScoreboard.resx">
+      <DependentUpon>frmScoreboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MemoryBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CardBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lobster.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Octopus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SeaHorse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Squid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turtle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Whale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AKI.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Akin Vector2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\I.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudM2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CloudY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clouds.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\school_bullitin_board_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Star.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pink Brain.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2531580-tumblr_m7wqdhyyuq1r1203yo1_1280.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alien2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bloob.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\martian_manhunter.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Superman HD Cartoon Photo %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewBack.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

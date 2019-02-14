@@ -1,0 +1,24 @@
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.exe.config
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.exe
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.pdb
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.csprojResolveAssemblyReference.cache
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.frmHFB.resources
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.Properties.Resources.resources
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.csproj.GenerateResource.Cache
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.exe
+c:\users\adewle y\documents\visual studio 2015\Projects\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.pdb
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.exe.config
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.exe
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.pdb
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.exe
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\Adewale.HumansFightBack.pdb
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\mscorlib.dll
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\normidna.nlp
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\normnfc.nlp
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\normnfd.nlp
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\normnfkc.nlp
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\bin\Debug\normnfkd.nlp
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.csprojResolveAssemblyReference.cache
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.frmHFB.resources
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.Properties.Resources.resources
+E:\Adewale.HumansFightBack\Adewale.HumansFightBack\obj\Debug\Adewale.HumansFightBack.csproj.GenerateResource.Cache
